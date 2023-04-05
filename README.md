@@ -27,7 +27,6 @@
         n = 0;
     }
 
-
     bool vazia() {
         return cabeca == NULL;
     }
